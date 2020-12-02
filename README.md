@@ -37,7 +37,7 @@ Simple easy example:
 About:
 =========================
 
-	 *@Author 	  Selvistrovich Leonid
-	 *@Mail       crack-it@yandex.com
-	  @version    1.0, 02.12.2020
+	 *@Author	Selvistrovich Leonid
+	 *@Mail		crack-it@yandex.com
+	  @version	1.0, 02.12.2020
 
