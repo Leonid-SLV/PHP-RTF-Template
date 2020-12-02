@@ -1,0 +1,17 @@
+{
+    "name": "leonid-slv/php-rtf-template",
+    "description": "Simple library for working with templates. Works on any PHP version, no additional libraries or dependencies are used. RTF files can be used from under any text editor, including MS Word.
+Supported formats UTF-8 and CP1251. The library looks for the text in the [template] view and replaces it with a value.",
+    "require": {},
+    "minimum-stability": "stable",
+    "license": "GPL-3.0",
+    "authors": [
+	           {
+	    	       "name": "Leonid Selvistrovich",
+	    	       "email": "crack-it@yandex.com"
+		       }
+               ],
+    "autoload": {
+        "files": ["rtf_template.php"]
+    }
+}
