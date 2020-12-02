@@ -18,7 +18,7 @@ Simple easy example:
 	';
 	$rtf = rtf_easy_replace($rtf,'template','world');
 
-Simple easy example:
+Normal replace:
 
 	$rtf = '{\rtf1\ansi\ansicpg1251\deff0\nouicompat\deflang1049{\fonttbl{\f0\fnil\fcharset0 Calibri;}{\f1\fnil\fcharset204 Calibri;}}
 	{\*\generator Riched20 10.0.19041}\viewkind4\uc1
